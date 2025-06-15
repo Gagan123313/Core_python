@@ -1,1 +1,2 @@
-# PYTHON BASICS
+python basic practice code 
+
